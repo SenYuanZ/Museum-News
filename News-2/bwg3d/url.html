@@ -1,0 +1,9 @@
+ <script language="javascript" type="text/javascript">
+  var loc = location.href;
+  var n1 = loc.length;
+  var n2 = loc.indexOf("=");
+  var id = loc.substr(n2+1, n1-n2);
+var newu=decodeURIComponent(id);
+window.location.href=newu; 
+
+ </script>

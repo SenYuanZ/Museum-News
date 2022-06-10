@@ -1,0 +1,9 @@
+X:\C#Web\News-3\DAL\bin\Release\DAL.dll
+X:\C#Web\News-3\DAL\bin\Release\DAL.pdb
+X:\C#Web\News-3\DAL\bin\Release\Helper.dll
+X:\C#Web\News-3\DAL\bin\Release\Model.dll
+X:\C#Web\News-3\DAL\bin\Release\Helper.pdb
+X:\C#Web\News-3\DAL\bin\Release\Model.pdb
+X:\C#Web\News-3\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+X:\C#Web\News-3\DAL\obj\Release\DAL.dll
+X:\C#Web\News-3\DAL\obj\Release\DAL.pdb

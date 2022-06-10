@@ -1,0 +1,11 @@
+X:\C#Web\News-3\BLL\bin\Release\BLL.dll
+X:\C#Web\News-3\BLL\bin\Release\BLL.pdb
+X:\C#Web\News-3\BLL\bin\Release\DAL.dll
+X:\C#Web\News-3\BLL\bin\Release\Helper.dll
+X:\C#Web\News-3\BLL\bin\Release\Model.dll
+X:\C#Web\News-3\BLL\bin\Release\DAL.pdb
+X:\C#Web\News-3\BLL\bin\Release\Helper.pdb
+X:\C#Web\News-3\BLL\bin\Release\Model.pdb
+X:\C#Web\News-3\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+X:\C#Web\News-3\BLL\obj\Release\BLL.dll
+X:\C#Web\News-3\BLL\obj\Release\BLL.pdb

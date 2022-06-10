@@ -1,0 +1,5 @@
+X:\C#Web\News-3\Model\bin\Release\Model.dll
+X:\C#Web\News-3\Model\bin\Release\Model.pdb
+X:\C#Web\News-3\Model\obj\Release\Model.csprojResolveAssemblyReference.cache
+X:\C#Web\News-3\Model\obj\Release\Model.dll
+X:\C#Web\News-3\Model\obj\Release\Model.pdb

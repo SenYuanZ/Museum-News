@@ -1,0 +1,16 @@
+X:\C#Web\News-2\Model\bin\Debug\Model.dll
+X:\C#Web\News-2\Model\bin\Debug\Model.pdb
+X:\C#Web\News-2\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+X:\C#Web\News-2\Model\obj\Debug\Model.dll
+X:\C#Web\News-2\Model\obj\Debug\Model.pdb
+D:\C#web\News-2\Model\bin\Debug\Model.dll
+D:\C#web\News-2\Model\bin\Debug\Model.pdb
+D:\C#web\News-2\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\C#web\News-2\Model\obj\Debug\Model.dll
+D:\C#web\News-2\Model\obj\Debug\Model.pdb
+X:\C#Web\News-3\Model\bin\Debug\Model.dll
+X:\C#Web\News-3\Model\bin\Debug\Model.pdb
+X:\C#Web\News-3\Model\obj\Debug\Model.dll
+X:\C#Web\News-3\Model\obj\Debug\Model.pdb
+X:\C#Web\News-3\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+X:\C#Web\News-3\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache

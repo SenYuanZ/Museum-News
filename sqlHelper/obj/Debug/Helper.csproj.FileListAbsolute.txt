@@ -1,0 +1,4 @@
+X:\C#Web\News-2\sqlHelper\bin\Debug\sqlHelper.dll
+X:\C#Web\News-2\sqlHelper\bin\Debug\sqlHelper.pdb
+X:\C#Web\News-2\sqlHelper\obj\Debug\sqlHelper.dll
+X:\C#Web\News-2\sqlHelper\obj\Debug\sqlHelper.pdb

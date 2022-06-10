@@ -1,0 +1,16 @@
+X:\C#Web\News-2\Helper\bin\Debug\Helper.dll
+X:\C#Web\News-2\Helper\bin\Debug\Helper.pdb
+X:\C#Web\News-2\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+X:\C#Web\News-2\Helper\obj\Debug\Helper.dll
+X:\C#Web\News-2\Helper\obj\Debug\Helper.pdb
+D:\C#web\News-2\Helper\bin\Debug\Helper.dll
+D:\C#web\News-2\Helper\bin\Debug\Helper.pdb
+D:\C#web\News-2\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+D:\C#web\News-2\Helper\obj\Debug\Helper.dll
+D:\C#web\News-2\Helper\obj\Debug\Helper.pdb
+X:\C#Web\News-3\Helper\bin\Debug\Helper.dll
+X:\C#Web\News-3\Helper\bin\Debug\Helper.pdb
+X:\C#Web\News-3\Helper\obj\Debug\Helper.dll
+X:\C#Web\News-3\Helper\obj\Debug\Helper.pdb
+X:\C#Web\News-3\Helper\obj\Debug\Helper.csproj.AssemblyReference.cache
+X:\C#Web\News-3\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache

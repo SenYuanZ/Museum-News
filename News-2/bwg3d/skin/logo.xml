@@ -1,0 +1,43 @@
+<krpano>
+
+
+	<layer name="skin_logo"    keep="true" url="" align="righttop" x="5" y="5" capture="false" accuracy="1" state="small" onclick="if(state == 'small', skin_openlogo(); , skin_closelogo('now'); opened_onclick(); );" />
+
+
+	<action name="skin_openlogo">
+		if(layer[skin_logo].state == 'small',
+			set(layer[skin_logo].state, 'opening');
+			copy(backup_logo_align, layer[skin_logo].align);
+			copy(backup_logo_x, layer[skin_logo].x);
+			copy(backup_logo_y, layer[skin_logo].y);
+			copy(backup_logo_scale, layer[skin_logo].scale);
+			layer[skin_logo].changeorigin(center);
+			tween(layer[skin_logo].x, 0, 0.5, easeOutQuint);
+			tween(layer[skin_logo].y, 0, 0.5, easeOutQuint);
+			tween(layer[skin_logo].scale, 1, 0.5, easeOutQuint);
+			delayedcall(0.5, set(layer[skin_logo].state, 'opened') );
+			delayedcall(0, set(events[skin_events].onmouseup, delayedcall(0, skin_closelogo()) ) );
+		  );
+	</action>
+
+	<action name="skin_closelogo">
+		if(layer[skin_logo].state == 'opened',
+			set(layer[skin_logo].state, 'closing');
+			layer[skin_logo].changeorigin(get(backup_logo_align));
+			if(%1 == 'now',
+				stoptween(layer[skin_logo].x, layer[skin_logo].y, layer[skin_logo].scale);
+				copy(layer[skin_logo].x, backup_logo_x);
+				copy(layer[skin_logo].y, backup_logo_y);
+				copy(layer[skin_logo].scale, backup_logo_scale);
+				set(layer[skin_logo].state, 'small');
+			  ,
+				tween(layer[skin_logo].x, get(backup_logo_x), 0.5, easeOutQuint);
+				tween(layer[skin_logo].y, get(backup_logo_y), 0.5, easeOutQuint);
+				tween(layer[skin_logo].scale, get(backup_logo_scale), 0.5, easeOutQuint);
+				delayedcall(0.5, set(layer[skin_logo].state, 'small'));
+			  );
+			set(events[skin_events].onmouseup, null);
+		  );
+	</action>
+
+</krpano>

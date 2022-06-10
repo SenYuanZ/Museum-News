@@ -1,0 +1,32 @@
+<krpano>
+
+
+	<!--地图-->
+	<layer name="map_bg" align="righttop" edge="righttop" x="10" y="10" keep="true" url="../img/map_bg.png" handcursor="false" alpha="1"
+		   onover="tween(alpha,1);"
+		   onout="tween(alpha,0.8);">
+		   
+		   <!--放大按钮-->
+			<layer name="fangda_btn" align="leftbottom" edge="leftbottom" x="10" y="10" keep="true" url="a_12.png" zorder="2" ondown="map_zoom(0.03);" />
+		   <!--缩小按钮-->
+			<layer name="suoxiao_btn" align="leftbottom" edge="leftbottom" x="60" y="10" keep="true" url="a_14.png" zorder="2" ondown="map_zoom(-0.03);" />
+			
+			<!--关闭-->
+			<layer name="guanbi_btn" align="lefttop" edge="center" x="-30" y="30" keep="true" url="a_06.png" onclick="map_shouqi();" />	
+			
+
+	
+	</layer>
+	
+	<!--全局事件-->
+	<events name="skin_events_jk2d8j3h" keep="true" 
+			on_thum_group_change="on_thum_group_change();"
+			on_map_group_change="on_map_group_change();"
+	/>
+	
+	
+	
+<!--地图结束-->
+
+
+</krpano>
